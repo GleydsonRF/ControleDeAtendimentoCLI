@@ -1,0 +1,14 @@
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\bin\Debug\net8.0\ControleDeAtendimento.exe
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\bin\Debug\net8.0\ControleDeAtendimento.deps.json
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\bin\Debug\net8.0\ControleDeAtendimento.runtimeconfig.json
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\bin\Debug\net8.0\ControleDeAtendimento.dll
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\bin\Debug\net8.0\ControleDeAtendimento.pdb
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.AssemblyInfoInputs.cache
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.AssemblyInfo.cs
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.dll
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\refint\ControleDeAtendimento.dll
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.pdb
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ControleDeAtendimento.genruntimeconfig.cache
+C:\Users\GRFreire\Documents\POO_C_SHARP\ControleDeAtendimentoCLI\ControleDeAtendimento\obj\Debug\net8.0\ref\ControleDeAtendimento.dll
