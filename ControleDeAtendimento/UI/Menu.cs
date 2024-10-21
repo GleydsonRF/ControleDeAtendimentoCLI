@@ -6,7 +6,6 @@ namespace ControleDeAtendimento
         public void ExibirMenu()
         {
             Console.WriteLine("=== Sistema de Controle de Atendimento ===");
-            utils.WriteEmptyLine(2);
             Console.WriteLine("1. Adicionar Senha");
             Console.WriteLine("2. Chamar Próxima Senha");
             Console.WriteLine("0. Sair");
